@@ -167,4 +167,8 @@ a {
 h2 {
   font-size: 22px;
 }
+button {
+  margin: 5px;
+  font-size: 18px;
+}
 }
